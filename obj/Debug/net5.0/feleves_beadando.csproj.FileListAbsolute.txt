@@ -1,0 +1,16 @@
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\bin\Debug\net5.0\feleves_beadando.exe
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\bin\Debug\net5.0\feleves_beadando.deps.json
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\bin\Debug\net5.0\feleves_beadando.runtimeconfig.json
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\bin\Debug\net5.0\feleves_beadando.runtimeconfig.dev.json
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\bin\Debug\net5.0\feleves_beadando.dll
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\bin\Debug\net5.0\feleves_beadando.pdb
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\feleves_beadando.csproj.AssemblyReference.cache
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\feleves_beadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\feleves_beadando.AssemblyInfoInputs.cache
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\feleves_beadando.AssemblyInfo.cs
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\feleves_beadando.csproj.CoreCompileInputs.cache
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\feleves_beadando.dll
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\refint\feleves_beadando.dll
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\feleves_beadando.pdb
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\feleves_beadando.genruntimeconfig.cache
+C:\Users\Márton\source\repos\gyakorlos\feleves_beadando\obj\Debug\net5.0\ref\feleves_beadando.dll
